@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello! 👋
+I'm Angeleena, I'm in the process of completeing my second full-stack coding bootcamp with <a href='https://generalassemb.ly/?topic=&mkt_account_id=1056949875&mkt_campaign_id=691843437&mkt_ad_group_id=35795657436&mkt_device_type=c&mkt_keyword=general%20assembly&mkt_matchtype=e&mkt_placement=&mkt_ad_id=591411259621&mkt_network=g&mkt_target_id=aud-387824918555:kwd-459322816&mkt_feed_item_id=&utm_source=google&utm_medium=paid-search-bra&utm_campaign=TS:TX:BRA:SFX:BR:GeneralAssembly&utm_content=campus-lead-lander&utm_term=general%20assembly&gclid=Cj0KCQjw8O-VBhCpARIsACMvVLMi9M1OdLy9bQZF4-LuD707jTXDnoDzR_4K25QWmDHbFfYteqsqrLIaAiwbEALw_wcB>'General Assembly</a>. 
 
 <!--
 **angeeg/angeeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
