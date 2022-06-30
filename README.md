@@ -1,5 +1,11 @@
 ### Hello! 👋
-I'm Angeleena, I'm in the process of completeing my second full-stack coding bootcamp with <a href='https://generalassemb.ly/?topic=&mkt_account_id=1056949875&mkt_campaign_id=691843437&mkt_ad_group_id=35795657436&mkt_device_type=c&mkt_keyword=general%20assembly&mkt_matchtype=e&mkt_placement=&mkt_ad_id=591411259621&mkt_network=g&mkt_target_id=aud-387824918555:kwd-459322816&mkt_feed_item_id=&utm_source=google&utm_medium=paid-search-bra&utm_campaign=TS:TX:BRA:SFX:BR:GeneralAssembly&utm_content=campus-lead-lander&utm_term=general%20assembly&gclid=Cj0KCQjw8O-VBhCpARIsACMvVLMi9M1OdLy9bQZF4-LuD707jTXDnoDzR_4K25QWmDHbFfYteqsqrLIaAiwbEALw_wcB>'General Assembly</a>. 
+I'm Angeleena a software engineer from the San Francisco Bay Area. I lean more towards the front-end side of engineering, but I am currently reinforcing and strengthening my full-stack skills with my second coding bootcamp at <a href="https://generalassemb.ly/education/software-engineering-immersive-remote-flex">General Assembly.</a>
+
+😁 My preferred pronouns are she/her/hers. </br>
+🧠 I am currently learning DOM manipulation and can't wait to learn all about Python. </br>
+🧘‍♀️ My free time is mostly spent practing yoga, hanging out with my family, and exploring the coastal trails in my area. </br>
+💻 You can contact me through <a href="mailto: angeleenasyse@gmail.com">email</a> or <a href="https://www.linkedin.com/in/angeeg/">linkedin</a>. Also, please <a href="https://angeeg-portfolio.herokuapp.com/">view my portfolio</a>!
+
 
 <!--
 **angeeg/angeeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
